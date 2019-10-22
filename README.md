@@ -4,7 +4,7 @@ Python samples for the [Virtru Platform SDK](https://developer.virtru.com/)
 ## Usage
 - [Install Virtru SDK](https://developer.virtru.com/docs/getting-started-python)
 - [Authentication](https://developer.virtru.com/docs/how-to-add-authentication)
-- [API Docuementation](https://docs.developer.virtru.com/python/latest/)
+- [API Documentation](https://docs.developer.virtru.com/python/latest/)
 
 
 ## Documentation 
