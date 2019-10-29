@@ -29,10 +29,10 @@ This will:
 
 ```
 # clone the repository
-$ git clone git@github.com:virtru/sdk-python-samples.git
+$ git clone git@github.com:virtru/virtru-sdk-python-samples.git
 
 # change directory
-$ cd sdk-python-samples/virtru-boto3
+$ cd virtru-sdk-python-samples/virtru-boto3
 
 # add keys
 # open .virtru 
