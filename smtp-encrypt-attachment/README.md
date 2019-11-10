@@ -3,10 +3,10 @@ Sends an unencrypted email with a Virtru Encrypted attachment
 
 
 ## Prerequisites
-* (https://www.python.org/downloads/)[Python 3]
-* (https://docs.python.org/3/library/smtplib.html)[Python3 SMTP Library]
-* (https://developer.virtru.com/docs/getting-started-python)[Virtru Python SDK]
-* (https://support.google.com/a/answer/176600?hl=en)[Gmail Relay]
+- [Python 3](https://www.python.org/downloads/)
+- [Python3 SMTP Library](https://docs.python.org/3/library/smtplib.html)
+- [Virtru Python SDK](https://developer.virtru.com/docs/getting-started-python)
+- [Gmail Relay](https://support.google.com/a/answer/176600?hl=en)
 
 
 ## Update fields
@@ -25,7 +25,7 @@ python3 app.py
 ```
 
 ## Virtru Authentictaion
-Virtru authentication is managed using (https://developer.virtru.com/docs/how-to-add-authentication#section-1-appid-token-downloaded)[App Ids]
+Virtru authentication is managed using [App Ids](https://developer.virtru.com/docs/how-to-add-authentication#section-1-appid-token-downloaded)
 
 
 ## Demo
