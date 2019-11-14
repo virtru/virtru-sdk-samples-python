@@ -14,3 +14,4 @@ Python samples for the [Virtru Platform SDK](https://developer.virtru.com/)
 ## Samples
 - [Virtru Boto3](./virtru-boto3/)
 - [Virtru SMTP Encrypt Attachment](./smtp-encrypt-attachment)
+- [Virtru SDK Bulk Actions](./virtru-sdk-bulk)
