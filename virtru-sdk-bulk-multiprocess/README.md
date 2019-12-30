@@ -22,6 +22,7 @@ pip3 install argparse
 * Token Key - HMAC Token
 * Token Secret - HMAC Secret
 * Add User - Add user to encryption policy
+* Concurrency - Maximum number of processes
 
 
 ## Virtru Authentictaion
