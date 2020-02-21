@@ -4,9 +4,9 @@ Example of how to Encrypt and Decrypt file into and out of Google Cloud Storage 
 
 ## Prerequisites
 - [Virtru SDK](https://developer.virtru.com/docs/getting-started-python) - Allows Encryption/Decryption/Policy Management/Audit Record Access
-- [Virtru Authentication Keys](https://developer.virtru.com/docs/how-to-add-authentication) - I have chosen to use HMAC authentication for this example.  The keys are in [.virtru](.virtru) file.
+- [Virtru Authentication Keys](https://developer.virtru.com/docs/how-to-add-authentication) - Virtru authentication  
 - [Google Cloud Storage Bucket](https://cloud.google.com/storage/docs/creating-buckets) - Will be the destination and source for encryption and decryption.
-- [Google Cloud Service Account](https://console.cloud.google.com/apis/credentials/serviceaccountkey) - Create Service Account
+- [Google Cloud Service Account](https://console.cloud.google.com/apis/credentials/serviceaccountkey) - GCP authentication
 - [Google Bucket Authentication](https://cloud.google.com/storage/docs/reference/libraries#setting_up_authentication) - With read and write access to the AWS Bucket
 - [Google Cloud Storage Python SDK](https://cloud.google.com/storage/docs/reference/libraries) - Google Cloud Storage Python SDK Install Documentation
 
